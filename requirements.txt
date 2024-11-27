@@ -1,0 +1,6 @@
+pip install pyzbar
+pip install numpy
+
+---------------------------------------------
+
+Gerar -> https://www.barcode-generator.de/pt/criar-codigo-128
